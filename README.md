@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6a0fddbf-bc8f-4333-be8c-b7599632eb09)# [JSL04] Submission: Monster Ternary Operator
+[JSL04] Submission: Monster Ternary Operator
 
 
  **Completed challenge** In this completed challenge I used ternary objects, template literals, and if and else statements to complete the required task as highlighted below.
