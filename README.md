@@ -1,12 +1,8 @@
-# [JSL04] Submission: Monster Ternary Operator
+![image](https://github.com/user-attachments/assets/6a0fddbf-bc8f-4333-be8c-b7599632eb09)# [JSL04] Submission: Monster Ternary Operator
 
-You will:
-1. Use the provided Starter Code Repository.
-2. Code your solution.
-3. Commit changes to your GitHub repository.
-4. Submit the GitHub Repository Link to the LMS [JSL04] Submission Project Tab.
 
-Check out the practice challenges on Scrimba here: https://scrimba.com/playlist/p9bvd5QH3
+ **Completed challenge** In this completed challenge I used ternary objects, template literals, and if and else statements to complete the required task as highlighted below.
+
 
 **Challenge Scenario:** In this coding exercise, you will work with the Monster Ternary Operator. You'll use ternary operators to make decisions based on various scenarios involving Monster Energy drinks.
 
